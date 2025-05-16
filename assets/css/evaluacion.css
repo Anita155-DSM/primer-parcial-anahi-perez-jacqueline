@@ -7,6 +7,7 @@ body {
 /* ==== Navbar ==== */
 .navbar-nav .nav-link:hover {
   color: #ffc75f;
+  align-items: center;
 }
 
 /* ==== Header ==== */
@@ -15,7 +16,7 @@ header {
 }
 
 header h1 {
-  font-weight: bold !important;
+  font-weight: bold;
 }
 
 /* ==== Artículos ==== */
@@ -24,8 +25,7 @@ article {
 }
 
 /* ==== Títulos y subtítulos ==== */
-article h2,
-article h3 {
+article h2, article h3 {
   color: #442c00;
   font-weight: bold;
 }
@@ -40,7 +40,7 @@ article label {
 input.form-control {
   border-radius: 8px;
   padding: 10px;
-  border: 1px solid #dacecf;
+  border: 1px solid #7a7878;
 }
 
 /* ==== Botones ==== */
