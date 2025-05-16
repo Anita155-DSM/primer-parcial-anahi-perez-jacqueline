@@ -1,21 +1,21 @@
 /* ==== Estilo general ==== */
 body {
   font-family: "Segoe UI", sans-serif;
-  background-color: #272626;
+  background-color: #fcfcfc;
 }
 
 /* ==== Navbar ==== */
 .navbar-nav .nav-link:hover {
-  color: #00245a;
+  color: #9b0bd3;
 }
 
 /* ==== Header ==== */
 header {
-  background-color: #024bb8;
+  background-color: #531394;
 }
 
 header h1 {
-  font-weight: bold !important;
+  font-weight: bold;
 }
 
 /* ==== Artículos ==== */
@@ -26,19 +26,18 @@ article {
 /* ==== Títulos y subtítulos ==== */
 article h2,
 article h3 {
-  color: #3181f8;
+  color: #5b199c;
   font-weight: bold;
 }
 
 /* ==== Párrafos ==== */
 article p {
-  color: #292121;
+  color: #48424a;
   font-size: 1rem;
 }
 
 /* ==== Footer ==== */
 footer {
-  background-color: #000000;
   text-align: center;
   padding: 15px 0;
   margin-top: auto;

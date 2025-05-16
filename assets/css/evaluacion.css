@@ -6,13 +6,13 @@ body {
 
 /* ==== Navbar ==== */
 .navbar-nav .nav-link:hover {
-  color: #ffc75f;
+  color: #6d27a2;
   align-items: center;
 }
 
 /* ==== Header ==== */
 header {
-  background-color: #bb7a02;
+  background-color: #7400a1;
 }
 
 header h1 {
@@ -47,12 +47,12 @@ input.form-control {
 .btn {
   border-radius: 20px;
   padding: 10px 25px;
-  font-weight: bold;
+  font-weight: rgb(86, 15, 112);
 }
 
 /* ==== Footer ==== */
 footer {
-  background-color: #212529;
+  background-color: #ffffff;
   text-align: center;
   padding: 15px 0;
   margin-top: auto;
